@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/place_picker"
+        android:title="@string/place_picker_label"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/autocomplete"
+        android:title="@string/autocomplete_intent"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>
